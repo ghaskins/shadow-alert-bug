@@ -5,8 +5,11 @@
 		"release": "npx shadow-cljs release app",
 		"build-report": "npx shadow-cljs run shadow.cljs.build-report app target/build-report.html"
 	},
-	"dependencies": {},
 	"devDependencies": {
 		"shadow-cljs": "2.12.5"
+	},
+	"dependencies": {
+		"react": "17.0.1",
+		"react-dom": "17.0.1"
 	}
 }
