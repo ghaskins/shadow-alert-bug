@@ -13,3 +13,7 @@ npx shadow-cljs watch app
 ```
 
 Then browse to http://localhost:8280/
+
+## Relevant code
+
+The interesting parts are [here](https://github.com/ghaskins/shadow-alert-bug/blob/main/src/shadow_alert_bug/views.cljs#L10)
