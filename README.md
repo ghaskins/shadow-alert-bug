@@ -1,6 +1,6 @@
 # shadow-alert-bug
 
-This project demonstrates a problem discovered as a bad reaction between [Shadow CLJS](https://github.com/thheller/shadow-cljs) introduced around v2.11.x and including up to v2.14.4, and the Material UI [Alert](https://material-ui.com/components/alert/) component
+This project demonstrates a problem discovered as a bad reaction between [Shadow CLJS](https://github.com/thheller/shadow-cljs) introduced around v2.11.x and including up to v2.14.4, and the Material UI [Alert](https://material-ui.com/components/alert/) component.  This is tracked [here](https://github.com/thheller/shadow-cljs/issues/900)
 
 ## Usage
 
